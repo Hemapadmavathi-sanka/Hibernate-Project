@@ -14,7 +14,8 @@ A full-stack web application built using Java Servlets, Hibernate ORM, and Postg
 6. How to Run
 7. Application Flow
 8. API Endpoints
-9. Known Issues and Notes
+9. Screenshorts
+10. Known Issues and Notes
 
 ---
 
@@ -177,8 +178,16 @@ After any edit or delete operation, the user is redirected back to the home page
     POST /Edit        Updates an existing student record by ID
 
     POST /delete      Deletes an existing student record by ID
-
+    
 ---
+## Screenshorts
+Add screenshots of the following pages to help contributors understand the user interface:
+- Login page (login.jsp)
+- Registration page (register.jsp)
+- Home dashboard with student records table (home.jsp)
+- Edit modal dialog
+- Delete confirmation modal
+
 
 ## Known Issues and Notes
 
