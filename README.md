@@ -182,11 +182,11 @@ After any edit or delete operation, the user is redirected back to the home page
 ---
 ## Screenshorts
 Add screenshots of the following pages to help contributors understand the user interface:
-- Login page (login.jsp)
-- Registration page (register.jsp)
-- Home dashboard with student records table (home.jsp)
-- Edit modal dialog
-- Delete confirmation modal
+- [Login page ](Screenshorts/Login.png)
+- [Registration page] (Screenshorts/Register.png)
+- [Home dashboard with student records table ](Screenshorts/Home.png)
+- [Edit modal dialog](Screenshorts/Edit.png)
+- [Delete confirmation modal](Screenshorts/Delete.png)
 
 
 ## Known Issues and Notes
